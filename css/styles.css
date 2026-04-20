@@ -115,11 +115,11 @@ display: none;
 gap: 40px;
 }
 
-.header-adress {
+.header-address {
 margin-left: auto;
 }
 
-.header-adress-list {
+.header-address-list {
 /*display: flex;*/
 
 display: none;
