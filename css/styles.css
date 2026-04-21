@@ -306,7 +306,8 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 color: #2e2f42;
-margin-top: 8px;
+margin-top: 0;
+margin-bottom: 8px;
 text-align: center;
 }
 
@@ -1300,6 +1301,7 @@ margin-bottom: 48px;
   width: 264px;
   height: 112px;
   display: flex;
+  margin-bottom: 8px;
   align-items: center;
   justify-content: center;
   background: #f4f4fd;
