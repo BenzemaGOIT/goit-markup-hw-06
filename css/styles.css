@@ -562,7 +562,7 @@ text-align: left;
   display: flex;
   gap: 16px;
 
-  yustify-content: center;
+  justify-content: center;
 }
 
 .footer-social-link {
